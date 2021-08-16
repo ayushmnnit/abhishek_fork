@@ -1,3 +1,3 @@
-# test__internal
+# test__external
 
-test__internal repository
+test__external repository
